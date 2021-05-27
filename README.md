@@ -1,26 +1,9 @@
-Rede de jogos de tabuleiro/rpg de mesa
+Gerenciador de currículos
 
-App para juntar, reunir pessoas para jogar RPG ou board games <br>
-Problema: São tipos de jogos dependentes de vários jogadores <br>
-          Muitas vezes, o custo é alto (board games) <br>
-          A falta de experiência de um mestre pode desmotivar o jogo e o interesse <br>
-          Dificuldade de achar um horário para jogar <br>
-          Integrar comunicação (discord) para sessões online <br>
-          Desconhecidos - Necessário ter um perfil <br>
-          Pontos de encontro definidos (podendo ser abertos ou liberados apenas aos part) <br>
-          Perfil com históricos, avaliações, etc. <br>
-          Inspiração em Uber, BláBláCar para seleção dos "donos" e dos participantes <br>
-/////////////////////////////////////
+#Introdução
+A empresa X possui de um software de gerenciamento de currículos, onde é disponibilizado um site de trabalhe conosco que permite aos interessados cadastrar seus currículos para que sejam analisados para vagas atuais ou futuras. Complementar a esse sistema, a empresa X quer uma inteligência que facilite o preenchimento das vagas com os currículos cadastrados no trabalhe conosco.
+A solução proposta é um sistema apoiado por uma IA, que oferece buscas em um banco de dados que contém, em sua essência, vagas e currículos. A principal função da IA é apontar quais os melhores currículos para as vagas ativas, aprendendo com as ocorrências positivas e negativas, treinando a inteligência para melhorar resultados e 
 
-Problema
-
-Jogos de tabuleiros e RPGs de mesa são atividades que, na maioria das vezes, necessitam de grupos de pessoas <br>
-para serem jogados e que nem sempre são fáceis de serem formados. Além disso, existem outros impedimentos que <br>
-podem impedir que a curiosidade seja aprofundada e explorada pela pessoa interessada, como valores, dificuldade <br>
-e o próprio meio de convivência que não compartilha de interesses parecidos.
-
-Objetivo
-
-O [Nome do aplicativo] tem como objetivo principal reunir pessoas com interesses parecidos, dentro do tema abordado, <br>
-possibilitando que as atividades sejam realizadas, ou seja, diminuir as dificuldades encontradas para a formação de <br>
-grupos de jogo.
+#Fundamentação
+1. IA - 
+3. Machine Learning

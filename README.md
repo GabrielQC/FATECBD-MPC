@@ -17,7 +17,7 @@ Paralelo ao sistema, uma inteligência aprenderá com os erros e acertos durante
 
 2.1 Inteligência artificial 
 
-	Como definido por John McCarthy (2004), pioneiro da Inteligência Artificial, “a inteligência artificial é a ciência e a engenharia de criar máquinas inteligentes, especialmente programas de computador inteligentes”.
+   Como definido por John McCarthy (2004), pioneiro da Inteligência Artificial, “a inteligência artificial é a ciência e a engenharia de criar máquinas inteligentes, especialmente programas de computador inteligentes”.
 O conceito de IA tem definições por diversos pontos de vista, normalmente divididos em processos de, pensamento e raciocínio, e comportamento, também divididos entre o sucesso em termos de fidelidade ao desempenho humano e o sucesso comparando-o a um conceito ideal de inteligência. (Russell, Stuart J., 2013, p.2).
 As duas abordagens se encontram quando o propósito da IA precisa ser definido, podendo ser, por exemplo, uma máquina que simula o pensamento humano e age a partir disso, ou um programa que procura superar o nível do raciocínio de uma pessoa em determinada tarefa, apresentando soluções mais rápidas baseadas em dados de aprendizado.
 
